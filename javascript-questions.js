@@ -46,7 +46,7 @@ var data = [[[1,2,3,4,5],[[1],[2],[3],[4],[5],[6],[[1]]],[9,8,7,6,5,[1,2,3]]],[1
 // each other and then centered vertically and horizonally within the body.
 // See example here - https://raw.githubusercontent.com/mgable/test-questions/master/question-6.jpg
 
-// 7. Write a function findById that returns the object with the corresponding
+// 7. Write a RECURSIVE function findById thatreturns the object with the corresponding
 //    id in the tree below.
 //
 // findById(9).value // returns 'A-A-C'
